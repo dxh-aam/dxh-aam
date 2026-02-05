@@ -5,20 +5,6 @@ I am a passionate **Frontend Developer with 3.5+ years of professional experienc
 
 ---
 
-### 🧑‍💻 Professional Experience
-
-**Software Engineer** — [**Devxhub**](https://devxhub.com)  
-*March 2022 – Present (3.5+ Years)*
-
-- **Core Technical Role**: Developed and maintained production-grade web applications using **Nuxt.js, Next.js, Astro.js, TypeScript**, and **TailwindCSS**.
-- **Modernization**: Led the migration of key projects from **Nuxt 2 to Nuxt 3**, ensuring smooth transitions and performance gains.
-- **Key Domains**: 
-  - **Social Media Archiving System**: Built scalable features for data preservation and retrieval.
-  - **E-learning Platform**: Developed an interactive management platform with a focus on UX and accessibility.
-- **Engineering Excellence**: Collaborated with backend teams for **RESTful API** integration, conducted code reviews, and optimized build pipelines for enhanced maintainability.
-
----
-
 ### 🛠️ Tech Stack
 
 #### 🔠 Languages
